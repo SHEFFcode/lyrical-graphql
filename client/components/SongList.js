@@ -6,7 +6,7 @@ class SongList extends Component {
       <div>
         SongList
       </div>
-    )
+    );
   }
 }
 
